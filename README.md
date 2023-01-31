@@ -1,5 +1,5 @@
 # README #
 Add
-##TAble of contents
+# Table of contents
 Some more changes added here!
-Adding some changes to Practice branch
+Even more changes being added here!
